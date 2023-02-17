@@ -24,3 +24,8 @@ table {
             padding: 10px;
             text-align: center;
 }
+
+.color {
+    width:10px;
+    length:10px;
+}
